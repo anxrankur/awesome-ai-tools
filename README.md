@@ -14,6 +14,9 @@ A curated list of powerful AI tools for developers, creators, designers, entrepr
 - Windsurf
 - Replit AI
 
+## 🧪 Testing
+- [Agent QA](https://github.com/vostride/agent-qa)
+
 ## 🎨 Image Generation
 - Midjourney
 - Flux
