@@ -41,6 +41,7 @@ A curated list of powerful AI tools for developers, creators, designers, entrepr
 - Notion AI
 - Gamma
 - Napkin AI
+- [Orkas](https://orkas.ai/?source=gh_anxrank) — Open-source, local-first desktop AI workforce.
 - Tome
 
 ## 🔍 Research & Search
