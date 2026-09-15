@@ -25,6 +25,7 @@ A curated list of powerful AI tools for developers, creators, designers, entrepr
 - Runway
 - Pika
 - Kling AI
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
 
 ## 🎙️ Voice AI
 - ElevenLabs
