@@ -58,6 +58,7 @@ A curated list of powerful AI tools for developers, creators, designers, entrepr
 - freeCodeCamp
 - CS50
 - MDN Docs
+- [SummarizAI](https://summarizai.ink) — Chrome extension: YouTube lecture summary, chapters, chat, and Study flashcards on the watch page (free plan for students)
 
 ## 🤝 Contributing
 
